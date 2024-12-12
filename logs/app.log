@@ -1,0 +1,359 @@
+{"timestamp": "2024-12-10 20:01:19,901", "level": "INFO", "message": "Starting up PDF Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-10 20:01:59,306", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 20:01:59,471", "level": "INFO", "message": "Successfully saved and processed PDF with ID: d4282937-c5b3-4e09-a10c-638e2a5c9489", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 20:01:59,471", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 20:02:30,368", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 20:02:33,155", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 20:09:01,537", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 20:09:01,539", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:15:19,346", "level": "INFO", "message": "Starting up PDF Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-10 21:19:08,770", "level": "INFO", "message": "Shutting down pdf Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-10 21:19:10,113", "level": "INFO", "message": "Starting up PDF Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-10 21:21:48,295", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:21:48,302", "level": "ERROR", "message": "Error extracting text from PDF: EOF marker not found", "module": "pdf_service", "function": "extract_text"}
+{"timestamp": "2024-12-10 21:21:48,302", "level": "ERROR", "message": "Error processing PDF: EOF marker not found", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 21:21:48,302", "level": "ERROR", "message": "Error uploading PDF: EOF marker not found", "module": "pdf", "function": "upload_pdf"}
+{"timestamp": "2024-12-10 21:21:48,303", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:21:48,404", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:21:48,406", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:21:48,416", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:21:48,420", "level": "ERROR", "message": "Error extracting text from PDF: EOF marker not found", "module": "pdf_service", "function": "extract_text"}
+{"timestamp": "2024-12-10 21:21:48,420", "level": "ERROR", "message": "Error processing PDF: EOF marker not found", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 21:21:48,420", "level": "ERROR", "message": "Error uploading PDF: EOF marker not found", "module": "pdf", "function": "upload_pdf"}
+{"timestamp": "2024-12-10 21:21:48,420", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:31:53,532", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:31:53,540", "level": "ERROR", "message": "Error extracting text from PDF: EOF marker not found", "module": "pdf_service", "function": "extract_text"}
+{"timestamp": "2024-12-10 21:31:53,540", "level": "ERROR", "message": "Error processing PDF: EOF marker not found", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 21:31:53,541", "level": "ERROR", "message": "Error uploading PDF: EOF marker not found", "module": "pdf", "function": "upload_pdf"}
+{"timestamp": "2024-12-10 21:31:53,541", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:31:53,659", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:31:53,662", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:31:53,671", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:31:53,675", "level": "ERROR", "message": "Error extracting text from PDF: EOF marker not found", "module": "pdf_service", "function": "extract_text"}
+{"timestamp": "2024-12-10 21:31:53,675", "level": "ERROR", "message": "Error processing PDF: EOF marker not found", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 21:31:53,675", "level": "ERROR", "message": "Error uploading PDF: EOF marker not found", "module": "pdf", "function": "upload_pdf"}
+{"timestamp": "2024-12-10 21:31:53,675", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:36:27,969", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:36:27,977", "level": "ERROR", "message": "Error extracting text from PDF: EOF marker not found", "module": "pdf_service", "function": "extract_text"}
+{"timestamp": "2024-12-10 21:36:27,977", "level": "ERROR", "message": "Error processing PDF: EOF marker not found", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 21:36:27,977", "level": "ERROR", "message": "Error uploading PDF: EOF marker not found", "module": "pdf", "function": "upload_pdf"}
+{"timestamp": "2024-12-10 21:36:27,978", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:36:28,098", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:36:28,103", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:36:28,115", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:36:28,119", "level": "ERROR", "message": "Error extracting text from PDF: EOF marker not found", "module": "pdf_service", "function": "extract_text"}
+{"timestamp": "2024-12-10 21:36:28,119", "level": "ERROR", "message": "Error processing PDF: EOF marker not found", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 21:36:28,119", "level": "ERROR", "message": "Error uploading PDF: EOF marker not found", "module": "pdf", "function": "upload_pdf"}
+{"timestamp": "2024-12-10 21:36:28,120", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:43:15,888", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:43:15,899", "level": "INFO", "message": "Successfully saved and processed PDF with ID: ad4f42e5-f188-4bbf-bd31-fc6c8904437f", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 21:43:15,900", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:43:15,912", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:43:15,915", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:43:15,924", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:43:15,930", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 20ff48e2-cf6c-4f52-a7fe-4adb6b0ba530", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 21:43:15,930", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:43:15,934", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:43:15,938", "level": "ERROR", "message": "Error in chat endpoint: 'ChatService' object has no attribute 'validate_pdf_exist'", "module": "chat", "function": "chat_with_pdf"}
+{"timestamp": "2024-12-10 21:43:15,939", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:43:16,068", "level": "INFO", "message": "Successfully saved and processed PDF with ID: bdc0360b-9e3c-4166-90d8-1107698e6018", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 21:50:10,564", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:50:10,577", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 554e3b1c-c549-4903-a582-be3165166e43", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 21:50:10,578", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:50:10,591", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:50:10,594", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:50:10,601", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:50:10,607", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 38e7ea62-fdb4-4539-be18-6e647eba6c91", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 21:50:10,608", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:50:10,611", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:50:11,702", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:50:11,790", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 81f86170-43f2-4031-82e8-ee577eba5c40", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 21:50:11,801", "level": "ERROR", "message": "Error processing PDF: File size exceeds maximum limit", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 21:55:20,623", "level": "INFO", "message": "Starting up PDF Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-10 21:55:25,401", "level": "INFO", "message": "Shutting down pdf Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-10 21:57:24,980", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:57:24,990", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 86d1fafb-92d2-4636-a122-bdf9b7004f5d", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 21:57:24,990", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:57:25,004", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:57:25,006", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:57:25,014", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:57:25,019", "level": "INFO", "message": "Successfully saved and processed PDF with ID: d7ab8dcd-dc6e-420b-9e02-e0913d745545", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 21:57:25,020", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:57:25,023", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:57:26,259", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:57:26,329", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 2591fb8c-d430-4cd3-ab0a-5922821f3eae", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 21:57:26,344", "level": "ERROR", "message": "Error processing PDF: File size exceeds maximum limit", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 21:58:19,272", "level": "INFO", "message": "Starting up PDF Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-10 21:58:31,379", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:58:31,380", "level": "INFO", "message": "Root endpoint called", "module": "main", "function": "root"}
+{"timestamp": "2024-12-10 21:58:31,381", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:58:43,128", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:58:43,129", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:58:48,839", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:58:48,840", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:58:49,707", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:58:49,710", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:59:04,573", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:59:04,683", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 5f22b5c5-b38b-42f9-be0e-41424545fe29", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 21:59:04,684", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:59:49,807", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 21:59:52,428", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:01:10,664", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:01:10,677", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 27888bf0-57f6-47e2-9025-453ff3eda73d", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 22:01:10,677", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:01:10,702", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:01:10,705", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:01:10,714", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:01:10,719", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 3ef0b592-7fd5-4a65-87ee-e25c0a181501", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 22:01:10,719", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:01:10,723", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:01:11,934", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:01:12,006", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 4ae0ce2b-c451-4aae-ad2b-1f34ae332f19", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 22:01:12,017", "level": "ERROR", "message": "Error processing PDF: File size exceeds maximum limit", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 22:06:52,256", "level": "INFO", "message": "Starting up PDF Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-10 22:06:54,028", "level": "INFO", "message": "Shutting down pdf Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-10 22:11:11,276", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:11:11,286", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 904e81de-ba5f-4589-91b2-b72e2c0d4c20", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 22:11:11,287", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:11:11,312", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:11:11,314", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:11:11,323", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:11:11,329", "level": "INFO", "message": "Successfully saved and processed PDF with ID: e8dc07d3-e76c-4942-bedf-b48c17cf2ade", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 22:11:11,329", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:11:11,333", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:11:12,488", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:11:12,526", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 1d874587-8d9d-41fd-914e-082f4bbc0c88", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 22:11:12,539", "level": "ERROR", "message": "Error processing PDF: File size exceeds maximum limit", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 22:21:01,332", "level": "INFO", "message": "Starting up PDF Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-10 22:21:05,225", "level": "INFO", "message": "Shutting down pdf Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-10 22:21:15,438", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:21:15,448", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 957eff29-8896-42c7-bb1b-605404e141d9", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 22:21:15,449", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:21:15,526", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:21:15,531", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:21:15,547", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:21:15,557", "level": "INFO", "message": "Successfully saved and processed PDF with ID: c4d95766-f351-43a9-8b15-58923e60331f", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 22:21:15,558", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:21:15,565", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:21:16,769", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 22:21:16,822", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 9d12bd63-2cb6-472a-ad9e-2c2fb2495903", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 22:21:16,833", "level": "ERROR", "message": "Error processing PDF: File size exceeds maximum limit", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-10 22:55:09,002", "level": "INFO", "message": "Starting up PDF Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-10 22:55:51,690", "level": "INFO", "message": "Shutting down pdf Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-10 23:03:26,565", "level": "INFO", "message": "Starting up PDF Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-10 23:03:37,143", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 23:03:37,144", "level": "INFO", "message": "Root endpoint called", "module": "main", "function": "root"}
+{"timestamp": "2024-12-10 23:03:37,144", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 23:03:48,967", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 23:03:48,968", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 23:03:49,107", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 23:03:49,110", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 23:10:50,700", "level": "INFO", "message": "Shutting down pdf Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-10 23:13:16,574", "level": "INFO", "message": "Starting up PDF Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-10 23:13:21,863", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 23:13:21,864", "level": "INFO", "message": "Root endpoint called", "module": "main", "function": "root"}
+{"timestamp": "2024-12-10 23:13:21,864", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 23:13:21,994", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 23:13:21,995", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 23:13:27,285", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 23:13:27,286", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 23:13:27,399", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-10 23:13:27,409", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 00:41:02,925", "level": "INFO", "message": "Starting up PDF Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-11 00:41:09,524", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 00:41:09,526", "level": "INFO", "message": "Root endpoint called", "module": "main", "function": "root"}
+{"timestamp": "2024-12-11 00:41:09,526", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 00:41:20,985", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 00:41:20,987", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 00:41:21,079", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 00:41:21,085", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 00:48:06,979", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 00:48:07,217", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 968dff40-6a25-4b43-a143-c6f878c7399b", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-11 00:48:07,218", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 00:48:45,216", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 00:48:47,112", "level": "INFO", "message": "Cached response for query: what is the pdf file about...", "module": "cache_service", "function": "cache_response"}
+{"timestamp": "2024-12-11 00:48:47,113", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 00:49:23,191", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 00:49:26,298", "level": "INFO", "message": "Cached response for query: what is the file about...", "module": "cache_service", "function": "cache_response"}
+{"timestamp": "2024-12-11 00:49:26,300", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 00:49:47,520", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 00:49:50,409", "level": "INFO", "message": "Cached response for query: what is bonus points of the project...", "module": "cache_service", "function": "cache_response"}
+{"timestamp": "2024-12-11 00:49:50,410", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 00:55:54,093", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 00:55:54,103", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 604e6624-52e7-4fb6-88d0-8fe73b678040", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-11 00:55:54,103", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 00:55:54,128", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 00:55:54,130", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 00:55:54,140", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 00:55:54,145", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 91ab315c-8de7-4eaa-a979-20178767a331", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-11 00:55:54,146", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 00:55:54,151", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 00:55:56,342", "level": "INFO", "message": "Cached response for query: What is this about?...", "module": "cache_service", "function": "cache_response"}
+{"timestamp": "2024-12-11 00:55:56,342", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 00:55:56,399", "level": "INFO", "message": "Cached response for query: What is this about?...", "module": "cache_service", "function": "cache_response"}
+{"timestamp": "2024-12-11 00:55:56,414", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 961ff515-d423-4485-b3db-39cc3c99f8ce", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-11 00:55:56,426", "level": "ERROR", "message": "Error processing PDF: File size exceeds maximum limit", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-11 01:28:08,641", "level": "INFO", "message": "Starting up PDF Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-11 01:28:12,511", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 01:28:12,512", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 01:28:12,584", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 01:28:12,589", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 01:33:06,632", "level": "INFO", "message": "Shutting down pdf Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-11 01:33:08,566", "level": "INFO", "message": "Starting up PDF Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-11 02:10:39,664", "level": "INFO", "message": "Starting up PDF Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-11 02:10:43,261", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:10:43,262", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:10:43,373", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:10:43,378", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:11:31,798", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:11:31,957", "level": "INFO", "message": "Successfully saved and processed PDF with ID: cdaed44b-2af8-4c3e-bd4d-e4a04a55af40", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-11 02:11:31,958", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:12:01,384", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:12:01,392", "level": "ERROR", "message": "Error querying with LlamaIndex: PDF not processed yet", "module": "llama_service", "function": "query_pdf"}
+{"timestamp": "2024-12-11 02:12:01,393", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:12:38,992", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:12:38,994", "level": "ERROR", "message": "Error querying with LlamaIndex: PDF not processed yet", "module": "llama_service", "function": "query_pdf"}
+{"timestamp": "2024-12-11 02:12:38,995", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:18:30,505", "level": "INFO", "message": "Starting up PDF Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-11 02:19:25,824", "level": "INFO", "message": "Starting up PDF Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-11 02:19:33,605", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:19:33,611", "level": "INFO", "message": "Initializing LlamaIndexService", "module": "llama_service", "function": "__init__"}
+{"timestamp": "2024-12-11 02:19:35,915", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 0094a909-7829-4316-97ab-a47ab934b446", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-11 02:19:35,918", "level": "ERROR", "message": "Error uploading PDF: 'functools._lru_cache_wrapper' object has no attribute 'UPLOAD_FOLDER'", "module": "pdf", "function": "upload_pdf"}
+{"timestamp": "2024-12-11 02:19:35,920", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:19:36,026", "level": "INFO", "message": "Shutting down pdf Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-11 02:19:40,564", "level": "INFO", "message": "Starting up PDF Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-11 02:19:46,910", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:19:46,912", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:19:47,012", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:19:47,016", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:20:19,766", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:20:19,772", "level": "INFO", "message": "Initializing LlamaIndexService", "module": "llama_service", "function": "__init__"}
+{"timestamp": "2024-12-11 02:20:22,011", "level": "INFO", "message": "Successfully saved and processed PDF with ID: a01d9b75-3f2a-4eb5-8200-c33a64eb234f", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-11 02:20:22,012", "level": "ERROR", "message": "Error uploading PDF: 'functools._lru_cache_wrapper' object has no attribute 'UPLOAD_FOLDER'", "module": "pdf", "function": "upload_pdf"}
+{"timestamp": "2024-12-11 02:20:22,013", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:21:03,027", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:21:03,029", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:21:05,375", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:21:05,375", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:21:16,509", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:21:16,512", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:21:22,726", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:21:22,728", "level": "INFO", "message": "Root endpoint called", "module": "main", "function": "root"}
+{"timestamp": "2024-12-11 02:21:22,729", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:21:29,537", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:21:29,537", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:23:58,973", "level": "INFO", "message": "Shutting down pdf Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-11 02:24:03,678", "level": "INFO", "message": "Starting up PDF Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-11 02:24:06,546", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:24:06,547", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:24:10,769", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:24:10,770", "level": "INFO", "message": "Root endpoint called", "module": "main", "function": "root"}
+{"timestamp": "2024-12-11 02:24:10,771", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:24:22,208", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:24:22,208", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:24:22,321", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:24:22,324", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:24:39,385", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:24:39,389", "level": "INFO", "message": "Initializing LlamaIndexService", "module": "llama_service", "function": "__init__"}
+{"timestamp": "2024-12-11 02:24:40,101", "level": "INFO", "message": "Successfully saved and processed PDF with ID: aff0ba1b-1a5c-4f78-a5bc-463ed7121100", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-11 02:24:40,101", "level": "INFO", "message": "Starting to process PDF aff0ba1b-1a5c-4f78-a5bc-463ed7121100", "module": "llama_service", "function": "process_pdf"}
+{"timestamp": "2024-12-11 02:24:40,102", "level": "INFO", "message": "PDF loader created", "module": "llama_service", "function": "process_pdf"}
+{"timestamp": "2024-12-11 02:24:40,525", "level": "INFO", "message": "Documents loaded", "module": "llama_service", "function": "process_pdf"}
+{"timestamp": "2024-12-11 02:24:41,206", "level": "ERROR", "message": "Error processing PDF with LlamaIndex: cannot import name 'global_handler' from 'llama_index.core' (C:\\Users\\huzey\\Desktop\\pdf_chat_api\\pdf_chat_api_venv\\Lib\\site-packages\\llama_index\\core\\__init__.py)", "module": "llama_service", "function": "process_pdf"}
+{"timestamp": "2024-12-11 02:24:41,208", "level": "ERROR", "message": "Error uploading PDF: cannot import name 'global_handler' from 'llama_index.core' (C:\\Users\\huzey\\Desktop\\pdf_chat_api\\pdf_chat_api_venv\\Lib\\site-packages\\llama_index\\core\\__init__.py)", "module": "pdf", "function": "upload_pdf"}
+{"timestamp": "2024-12-11 02:24:41,210", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:25:51,062", "level": "INFO", "message": "Shutting down pdf Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-11 02:45:17,143", "level": "INFO", "message": "Starting up PDF Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-11 02:45:28,696", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:45:28,697", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:45:28,776", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:45:28,780", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:45:42,648", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:45:42,651", "level": "INFO", "message": "Initializing LlamaIndexService", "module": "llama_service", "function": "__init__"}
+{"timestamp": "2024-12-11 02:46:53,004", "level": "ERROR", "message": "Request failed: ServiceContext is deprecated. Use llama_index.settings.Settings instead, or pass in modules to local functions/methods/interfaces.\nSee the docs for updated usage/migration: \nhttps://docs.llamaindex.ai/en/stable/module_guides/supporting_modules/service_context_migration/", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:47:58,000", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:47:58,001", "level": "INFO", "message": "Initializing LlamaIndexService", "module": "llama_service", "function": "__init__"}
+{"timestamp": "2024-12-11 02:48:00,803", "level": "ERROR", "message": "Request failed: ServiceContext is deprecated. Use llama_index.settings.Settings instead, or pass in modules to local functions/methods/interfaces.\nSee the docs for updated usage/migration: \nhttps://docs.llamaindex.ai/en/stable/module_guides/supporting_modules/service_context_migration/", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:48:37,481", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-11 02:48:37,485", "level": "INFO", "message": "Initializing LlamaIndexService", "module": "llama_service", "function": "__init__"}
+{"timestamp": "2024-12-11 02:48:41,117", "level": "ERROR", "message": "Request failed: ServiceContext is deprecated. Use llama_index.settings.Settings instead, or pass in modules to local functions/methods/interfaces.\nSee the docs for updated usage/migration: \nhttps://docs.llamaindex.ai/en/stable/module_guides/supporting_modules/service_context_migration/", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:26:05,080", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:26:05,108", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 44ebd5c5-524c-4fe7-b581-e7d6669c30dd", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-12 13:26:05,109", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:26:05,122", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:26:05,126", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:26:05,130", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:26:05,130", "level": "INFO", "message": "Successfully saved and processed PDF with ID: f28eaea1-6978-47fe-8d49-fb5eb662b7d6", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-12 13:26:05,130", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:26:05,146", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:26:06,690", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:26:06,723", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 37252317-9f0b-4c8d-9f5a-8293ebd658b5", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-12 13:26:06,739", "level": "ERROR", "message": "Error processing PDF: File size exceeds maximum limit", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-12 13:55:31,436", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:55:31,446", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 1bcf776a-84be-4606-888a-560b1ee88bbe", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-12 13:55:31,447", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:55:31,458", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:55:31,463", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:55:31,477", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:55:31,482", "level": "INFO", "message": "Successfully saved and processed PDF with ID: afce0682-2107-4995-ba3c-d629f6ef95ce", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-12 13:55:31,482", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:55:31,487", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:55:33,173", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:55:33,204", "level": "INFO", "message": "Successfully saved and processed PDF with ID: eda9bfc2-d74c-474b-b909-82a81839acf6", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-12 13:55:33,218", "level": "ERROR", "message": "Error processing PDF: File size exceeds maximum limit", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-12 13:58:17,066", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:58:17,069", "level": "INFO", "message": "Successfully saved and processed PDF with ID: cbb59b28-7561-4743-8ec8-ff1465fb49ed", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-12 13:58:17,069", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:58:17,096", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:58:17,099", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:58:17,108", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:58:17,114", "level": "INFO", "message": "Successfully saved and processed PDF with ID: b87e427b-e994-489a-897d-521f64bda0d7", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-12 13:58:17,114", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:58:17,118", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:58:18,624", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 13:58:18,723", "level": "INFO", "message": "Successfully saved and processed PDF with ID: c7519716-9c82-41e5-a5de-ab6efc56988e", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-12 13:58:18,738", "level": "ERROR", "message": "Error processing PDF: File size exceeds maximum limit", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-12 14:00:51,522", "level": "INFO", "message": "Starting up PDF Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-12 14:00:59,698", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:00:59,698", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:01:00,385", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:01:00,388", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:01:25,104", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:01:25,365", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 67639bf0-be76-436c-9f7c-1cbb7040f0a1", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-12 14:01:25,365", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:01:50,786", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:01:51,771", "level": "ERROR", "message": "Error generating chat response: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]", "module": "chat_service", "function": "generate_response"}
+{"timestamp": "2024-12-12 14:01:51,772", "level": "ERROR", "message": "Error in chat endpoint: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]", "module": "chat", "function": "chat_with_pdf"}
+{"timestamp": "2024-12-12 14:01:51,773", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:02:26,445", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:02:26,706", "level": "ERROR", "message": "Error generating chat response: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]", "module": "chat_service", "function": "generate_response"}
+{"timestamp": "2024-12-12 14:02:26,715", "level": "ERROR", "message": "Error in chat endpoint: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]", "module": "chat", "function": "chat_with_pdf"}
+{"timestamp": "2024-12-12 14:02:26,715", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:02:29,773", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:02:29,773", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:02:29,979", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:02:29,980", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:02:47,489", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:02:47,932", "level": "ERROR", "message": "Error generating chat response: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]", "module": "chat_service", "function": "generate_response"}
+{"timestamp": "2024-12-12 14:02:47,932", "level": "ERROR", "message": "Error in chat endpoint: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]", "module": "chat", "function": "chat_with_pdf"}
+{"timestamp": "2024-12-12 14:02:47,933", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:02:57,619", "level": "INFO", "message": "Shutting down pdf Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-12 14:03:03,549", "level": "INFO", "message": "Starting up PDF Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-12 14:03:08,999", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:03:08,999", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:03:09,079", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:03:09,084", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:03:27,511", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:03:28,444", "level": "ERROR", "message": "Error generating chat response: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]", "module": "chat_service", "function": "generate_response"}
+{"timestamp": "2024-12-12 14:03:28,445", "level": "ERROR", "message": "Error in chat endpoint: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]", "module": "chat", "function": "chat_with_pdf"}
+{"timestamp": "2024-12-12 14:03:28,445", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:03:56,331", "level": "INFO", "message": "Shutting down pdf Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-12 14:04:14,383", "level": "INFO", "message": "Starting up PDF Chat API", "module": "main", "function": "lifespan"}
+{"timestamp": "2024-12-12 14:04:17,984", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:04:17,984", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:04:18,063", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:04:18,067", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:04:38,049", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:04:40,905", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 14:09:02,091", "level": "INFO", "message": "Shutting down pdf Chat API", "module": "main", "function": "lifespan"}

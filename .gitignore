@@ -1,0 +1,22 @@
+# # Virtual environment
+# venv/
+
+# # Environment variables
+# .env
+
+# # Python cache
+# __pycache__/
+# *.pyc
+
+# # IDE specific files
+# .vscode/
+# .idea/
+
+# # Test cache
+# .pytest_cache/
+
+# # .gitignore
+# logs/*
+# !logs/.gitkeep
+# storage/*
+# !storage/.gitkeep
