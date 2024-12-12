@@ -38,17 +38,21 @@ A FastAPI-based service that enables users to chat with PDF documents using Goog
 - GEMINI_API_KEY=your_api_key_here
 
 # Project Structure
-pdf_chat_api/
-├── app/                # Application package
-│   ├── api/            # API endpoints
-│   │   └── v1/         # API version 1
-│   ├── core/           # Core functionality
-│   ├── models/         # Data models
-│   └── services/       # Business logic
-├── tests/              # Test suite
-├── docs/               # Documentation
-└── storage/            # PDF storage
-└── logs/               # Logs
+
+### Description of Directories:
+- **`app/`**: Contains the core application logic.
+  - **`api/`**: Defines the API endpoints for the application.
+    - **`v1/`**: Version 1 of the API.
+  - **`core/`**: Contains the core functionality of the application.
+  - **`models/`**: Includes data models used throughout the application.
+  - **`services/`**: Implements the business logic of the application.
+- **`tests/`**: Contains the test suite for the application.
+- **`docs/`**: Documentation related to the project.
+- **`storage/`**: Directory for storing uploaded PDF files.
+- **`logs/`**: Stores application logs.
+
+This structure provides a modular and organized foundation for developing, testing, and maintaining the application.
+
 
 - Check docs/technical_doc.md file for more details.
 
