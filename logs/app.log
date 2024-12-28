@@ -1,0 +1,14 @@
+{"timestamp": "2024-12-12 12:52:15,870", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 12:52:15,880", "level": "INFO", "message": "Successfully saved and processed PDF with ID: a624b7fe-be47-49eb-a29b-75fae43d9d14", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-12 12:52:15,881", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 12:52:15,892", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 12:52:15,894", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 12:52:15,902", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 12:52:15,908", "level": "INFO", "message": "Successfully saved and processed PDF with ID: 4bd7af3e-2e32-4b84-a3bf-a326c3c20d32", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-12 12:52:15,908", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 12:52:15,912", "level": "INFO", "message": "Request started", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 12:52:16,897", "level": "ERROR", "message": "Error generating chat response: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]", "module": "chat_service", "function": "generate_response"}
+{"timestamp": "2024-12-12 12:52:16,898", "level": "ERROR", "message": "Error in chat endpoint: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]", "module": "chat", "function": "chat_with_pdf"}
+{"timestamp": "2024-12-12 12:52:16,898", "level": "INFO", "message": "Request complated", "module": "error_handlers", "function": "log_request_middleware"}
+{"timestamp": "2024-12-12 12:52:17,018", "level": "INFO", "message": "Successfully saved and processed PDF with ID: baba276c-cf8c-4a9d-8be8-2c2580060f04", "module": "pdf_service", "function": "save_pdf"}
+{"timestamp": "2024-12-12 12:52:17,030", "level": "ERROR", "message": "Error processing PDF: File size exceeds maximum limit", "module": "pdf_service", "function": "save_pdf"}
